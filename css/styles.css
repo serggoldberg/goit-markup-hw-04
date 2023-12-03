@@ -355,12 +355,6 @@ img {
   margin-bottom: 8px;
 }
 
-.team-icons {
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-}
-
 .icons-list {
   display: flex;
   justify-content: center;
